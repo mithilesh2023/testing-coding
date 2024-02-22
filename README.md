@@ -1,2 +1,2 @@
-# testing-coding
+# testing-code
 this is second testing repo
